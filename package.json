@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-airbnb": "^18.2.1",
+    "ioredis": "^4.27.6",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mariadb": "^2.5.4",
+    "query-string": "^7.0.1",
+    "sequelize": "^6.6.4",
+    "uuid": "^8.3.2",
+    "xss": "^1.0.9"
+  },
+  "devDependencies": {
+    "@types/ioredis": "^4.26.4"
+  }
+}
